@@ -1,4 +1,4 @@
-# Set seed for reporduciiblity
+# Set seed for reproducibility
 set.seed(123)
 
 # 1. Data generation

@@ -1,4 +1,4 @@
-# 2. Corerlation among predictors
+# 2. Correlation among predictors
 cor_matrix <- cor(data[, c("predictor1", "predictor2", "predictor3")])
 
 # Save correlation matrix as a plot
